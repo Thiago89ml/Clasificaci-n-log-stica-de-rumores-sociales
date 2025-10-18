@@ -39,3 +39,5 @@ Esto fue necesario debido a que el segundo CSV no poseía una columna de etiquet
 
 Por último, se generó una salida del archivo en formato similar al CSV, con el fin de enviarlo al ranking.
 Esto se realizó mediante el comando output, seleccionando las columnas ID y etiqueta necesarias para el proceso de evaluación en la página de GitHub.
+
+<img width="427" height="175" alt="Ressultado train de rumores" src="https://github.com/user-attachments/assets/1e2281e9-f0bc-4c3b-ba2a-9d51df4eacd1" />
